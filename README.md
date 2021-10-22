@@ -1,6 +1,6 @@
 # Database-Project
 CIS 3212 Project
-## Team Name: Turtles
+## Team Name: Coding Turtles
 ## Team Members: Ruth and Raina
 ## Outline For Project:
 ## Project Introduction
