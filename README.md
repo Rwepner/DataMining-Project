@@ -1,6 +1,6 @@
 # Database-Project
 CIS 3212 Project
-## Team Name: Coding Turtles
+## Team Name: The Coding Turtles
 ## Team Members: Ruth and Raina
 ## Outline For Project: 
 #### We will be understanding a test database for a campus controlled food delivery service similar to craveoncampus.com. We will be enhancing with a rating system for both restraunts and delivery drivers. 
