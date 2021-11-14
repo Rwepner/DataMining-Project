@@ -10,8 +10,8 @@ CIS 3212 Project
 #### 1 to many for person to food. Individual delivery is tied to 1 and only 1 person. The order is for one and only one resturaunt. 
 
 ## EERD
-Attached PNG is provided on top of README
+Attached PNG is provided in README
 ## Data Dictionary
-Attached Doc is provided on top of README
+Attached Doc is provided in README
 ## SQL Code for Queries, Stored Procedures, Views (screen shots)
 ## Future Work
