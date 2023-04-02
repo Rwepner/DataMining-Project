@@ -17,5 +17,5 @@ I created a app for my programming class in 2021
 ## Experience 
 #### I am working with Walser Technologies at the moment for experience. I am a intern and plan to stay with them until graduation and hopefully even after. 
 ## Awards and Honors
-####I have been awarded a spot on the presidents list, the deans list, multiple scholarships. 
+#### I have been awarded a spot on the presidents list, the deans list, multiple scholarships. 
 ## References
