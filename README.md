@@ -1,7 +1,6 @@
 # DataMining-Project
 
 ## Ruth Wepner
-## Team Members: Ruth and Raina
 ## About Me 
 #### I am a 20 year old female student currently inhancing my skills in CIS. Some skills of mine are general/advaced knowledge on computers, operating systems, computer hardware. I am a junior in college so I hav taken many courses in programming, website construction, security, and learning the history of computers. I hope to graduate and continue to work with computers, specifically in the AR/VR world. Contact me at: email: ruthwepner.1@gmail.com
 ## Education 
