@@ -1,17 +1,22 @@
-# Database-Project
-CIS 3212 Project
-## Team Name: The Coding Turtles
-## Team Members: Ruth and Raina
-## Outline For Project: 
-#### We will be understanding a test database for a campus controlled food delivery service similar to craveoncampus.com. We will be enhancing with a rating system for both restraunts and delivery drivers. 
-## Project Introduction: 
-#### Due to coronavirus restraunts have started online ordering and delivery services are much more common and normalized these days. A college campus has pushed its local restraunts and school cafeterias to start up delivery services for the students. Schools are now debating on whether or not to take control of the delivery to ensure that students and staff are the only ones delivering food on campus for safety and health reasons. 
-## Business Rules: 
-#### 1 to many for person to food. Individual delivery is tied to 1 and only 1 person. The order is for one and only one resturaunt. 
+# DataMining-Project
 
-## EERD
-Attached PNG is provided in README
-## Data Dictionary
-Attached Doc is provided in README
-## SQL Code for Queries, Stored Procedures, Views (screen shots)
-## Future Work
+## Ruth Wepner
+## Team Members: Ruth and Raina
+## About Me 
+#### I am a 20 year old female student currently inhancing my skills in CIS. Some skills of mine are general/advaced knowledge on computers, operating systems, computer hardware. I am a junior in college so I hav taken many courses in programming, website construction, security, and learning the history of computers. I hope to graduate and continue to work with computers, specifically in the AR/VR world. Contact me at: email: ruthwepner.1@gmail.com
+## Education 
+#### I graduated highschool in 2020 from Discovery highschool. I went on to join Catawba College and will get my degree in bachelor of sciences in May 2024. 
+## Skills 
+#### I have skills in programming in java, python, SQL, and tableu, HTML and CSS. 
+
+## Project Name 1
+I created a READme, or respository, for another class in 2022 for restraunts and their data. 
+## Project Name 2
+I created a app for my programming class in 2021
+## Website for Web Tech in 2022
+#### I created a website for my friends art pieces in 2022.
+## Experience 
+#### I am working with Walser Technologies at the moment for experience. I am a intern and plan to stay with them until graduation and hopefully even after. 
+## Awards and Honors
+####I have been awarded a spot on the presidents list, the deans list, multiple scholarships. 
+## References
